@@ -9,4 +9,4 @@ Includes (but is not limited to):
 - Makefile
 - requirements.txt
 - main.py
-- main.yml
+- CI_CD.yml
