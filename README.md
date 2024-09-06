@@ -1,4 +1,4 @@
-[![Python Template test with Github Actions](https://github.com/nogibjj/IDS706_Fennie_Template/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/IDS706_Fennie_Template/actions/workflows/main.yml)
+[![Python Template test with Github Actions](https://github.com/nogibjj/IDS706_Fennie_Template/actions/workflows/CI_CD.yml/badge.svg)](https://github.com/nogibjj/IDS706_Fennie_Template/actions/workflows/CI_CD.yml)
 
 
 
