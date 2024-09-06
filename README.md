@@ -4,9 +4,9 @@
 
 # IDS706_Fennie_Template
 ## Fennie's Python Template
-Includes:
+Includes (but is not limited to):
 - README
 - Makefile
 - requirements.txt
-- hello.py
-- test_hello.py
+- main.py
+- .devcontainer
