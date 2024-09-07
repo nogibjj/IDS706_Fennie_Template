@@ -7,6 +7,6 @@
 Includes (but is not limited to):
 - .devcontainer
 - Makefile
-- CI/CD
+- CI/CD pipeline
 - requirements.txt
 - README.md
