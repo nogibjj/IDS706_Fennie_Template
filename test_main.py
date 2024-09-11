@@ -1,4 +1,4 @@
-from testRun import add
+from funcs import add
 
 
 def test_add():
